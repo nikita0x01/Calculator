@@ -37,4 +37,4 @@ This app supports both **on-screen button clicks** and **keyboard input**, allow
   - `Backspace` → Delete last input  
   - `Escape` or `C` → Clear all  
 
----
+
