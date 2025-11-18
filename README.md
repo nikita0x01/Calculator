@@ -16,7 +16,7 @@ This app supports both **on-screen button clicks** and **keyboard input**, allow
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="525" height="763" alt="image" src="https://github.com/user-attachments/assets/471840e6-1b87-4173-9881-fb51d40bbf2e" />
 
