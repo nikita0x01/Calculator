@@ -5,14 +5,14 @@ This app supports both **on-screen button clicks** and **keyboard input**, allow
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🖱️ **Click-based input** – Use the UI buttons to input numbers and operators.  
-- ⌨️ **Keyboard support** – Perform calculations directly using your keyboard (numbers, operators, Enter, Backspace).  
-- ➕ **Basic arithmetic operations** – Addition, Subtraction, Multiplication, Division.  
-- 🧹 **Clear & Delete functions** – Reset the entire input or delete the last character.  
-- 📱 **Responsive design** – Works smoothly on desktop and mobile devices.  
-- 🔄 **Real-time display** – Shows input and result updates dynamically.  
+-  **Click-based input** – Use the UI buttons to input numbers and operators.  
+-  **Keyboard support** – Perform calculations directly using your keyboard (numbers, operators, Enter, Backspace).  
+-  **Basic arithmetic operations** – Addition, Subtraction, Multiplication, Division.  
+-  **Clear & Delete functions** – Reset the entire input or delete the last character.  
+-  **Responsive design** – Works smoothly on desktop and mobile devices.  
+-  **Real-time display** – Shows input and result updates dynamically.  
 
 ---
 
@@ -27,7 +27,7 @@ This app supports both **on-screen button clicks** and **keyboard input**, allow
 
 ---
 
-## 🖥️ Usage
+##  Usage
 
 - **Mouse Input**: Click the buttons on the calculator interface.  
 - **Keyboard Input**:  
